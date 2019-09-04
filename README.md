@@ -1,4 +1,3 @@
 # EXPLORATORY-DATA-ANALYSIS
 
-Analysis of Data using some simple tools like statistics, linear algebra and some other simple plotting tools.
-EDA is used to understand what the data is all about.
+At a high level, EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis. This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents. This is a significant step to take before diving into machine learning or statistical modeling, to make sure the data are really what they are claimed to be and that there are no obvious problems. EDA should be part of the way data science operates in any organization.
